@@ -109,7 +109,7 @@ Você tem direito a:
 - **Portabilidade**: exportar seus dados via função de backup do app
 - **Revogar consentimento** a qualquer momento
 
-Para exercer qualquer um desses direitos, entre em contato: **udecosta@gmail.com**
+Para exercer qualquer um desses direitos, entre em contato: **wzsistemasapp@gmail.com**
 
 ---
 
@@ -119,7 +119,7 @@ Você pode excluir sua conta do VendeAI e todos os dados associados a ela a qual
 
 **Pelo aplicativo:** na tela inicial, toque no ícone da conta → **Excluir conta e dados da nuvem** → confirme com sua senha.
 
-**Sem o aplicativo:** envie um e-mail para **udecosta@gmail.com** com o assunto "Exclusão de conta VendeAI", a partir do e-mail cadastrado na conta.
+**Sem o aplicativo:** envie um e-mail para **wzsistemasapp@gmail.com** com o assunto "Exclusão de conta VendeAI", a partir do e-mail cadastrado na conta.
 
 O passo a passo completo, incluindo o que é apagado e o que é mantido, está na página **[Exclusão de conta — VendeAI](exclusao-de-conta.html)**.
 
@@ -134,4 +134,4 @@ Podemos atualizar esta política periodicamente. Alterações significativas ser
 ## 12. Contato
 
 **Wz Sistemas**
-E-mail: udecosta@gmail.com
+E-mail: wzsistemasapp@gmail.com
