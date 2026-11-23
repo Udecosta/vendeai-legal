@@ -4,7 +4,7 @@ title: Exclusão de conta — VendeAI
 
 # Exclusão de conta — VendeAI
 
-**Desenvolvedor:** Adega Digital
+**Desenvolvedor:** Wz Sistemas
 
 Esta página explica como excluir sua conta do aplicativo **VendeAI** e os dados associados a ela.
 

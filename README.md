@@ -6,7 +6,7 @@
 
 ## 1. Introdução
 
-O **VendeAI** ("nós", "nosso" ou "aplicativo") é um sistema de gestão de vendas desenvolvido por **Adega Digital**. Esta Política de Privacidade descreve quais dados coletamos, como os utilizamos, com quem os compartilhamos e quais são seus direitos, em conformidade com a **Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)**.
+O **VendeAI** ("nós", "nosso" ou "aplicativo") é um sistema de gestão de vendas desenvolvido por **Wz Sistemas**. Esta Política de Privacidade descreve quais dados coletamos, como os utilizamos, com quem os compartilhamos e quais são seus direitos, em conformidade com a **Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)**.
 
 Ao usar o VendeAI, você concorda com os termos desta política.
 
@@ -133,5 +133,5 @@ Podemos atualizar esta política periodicamente. Alterações significativas ser
 
 ## 12. Contato
 
-**Adega Digital**
+**Wz Sistemas**
 E-mail: udecosta@gmail.com
