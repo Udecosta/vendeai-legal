@@ -1,6 +1,6 @@
 # Política de Privacidade — VendeAI
 
-**Última atualização:** junho de 2026
+**Última atualização:** novembro de 2026
 
 ---
 
@@ -42,7 +42,7 @@ Todos esses dados são **de sua propriedade**. Nós não os acessamos para fins 
 
 - **Funcionamento do app**: dados de vendas, produtos e clientes são armazenados localmente no seu dispositivo, criptografados com SQLCipher.
 - **Sincronização em nuvem** (plano Pro): os dados do negócio são sincronizados via Google Firebase Firestore para possibilitar acesso em múltiplos dispositivos.
-- **Imagens de produtos**: fotos de produtos são armazenadas no Room (armazenamento local do seu dispositivo)
+- **Imagens de produtos**: as fotos ficam armazenadas no seu dispositivo. No plano Pro, com a sincronização ativa, elas também são enviadas ao **Google Firebase Storage**, em uma área acessível somente pela sua conta.
 - **Melhoria do app**: relatórios de falha anônimos (Crashlytics) são usados exclusivamente para corrigir erros técnicos. Essa coleta é desativada em versões de desenvolvimento.
 - **Anúncios** (plano gratuito): o Google AdMob exibe anúncios.
 
@@ -51,7 +51,7 @@ Todos esses dados são **de sua propriedade**. Nós não os acessamos para fins 
 ## 4. Armazenamento e segurança
 
 - **Local**: banco de dados criptografado com **SQLCipher (AES-256)**; preferências do app protegidas com **EncryptedSharedPreferences**.
-- **Nuvem** (Pro): dados transmitidos via HTTPS e armazenados nos servidores do Google Firebase, com conformidade SOC 2 e ISO 27001.
+- **Nuvem** (Pro): dados transmitidos via HTTPS e armazenados nos servidores do Google Firebase, com conformidade SOC 2 e ISO 27001. Cada conta só tem acesso aos próprios dados.
 - **Backup**: arquivos de backup gerados pelo app são salvos na pasta que você escolher no seu dispositivo, protegidos por criptografia AES-256.
 - Não armazenamos senhas em texto simples.
 
@@ -87,8 +87,8 @@ As permissões de câmera e galeria são solicitadas apenas quando você acessa 
 
 ## 7. Retenção de dados
 
-- **Dados locais**: permanecem no dispositivo até você desinstalar o app ou realizar uma restauração de fábrica.
-- **Dados em nuvem** (Pro): mantidos enquanto sua conta estiver ativa. Ao excluir a conta, os dados em nuvem são removidos em até **30 dias**.
+- **Dados locais**: permanecem no dispositivo até você desinstalar o app, limpar os dados do app ou realizar uma restauração de fábrica.
+- **Dados em nuvem** (Pro): mantidos enquanto sua conta estiver ativa. Ao excluir a conta pelo app, os dados em nuvem são apagados **imediatamente**. Pedidos de exclusão por e-mail são atendidos em até **30 dias**.
 - **Relatórios de falha**: retidos por até **90 dias** pela Firebase Crashlytics.
 
 ---
@@ -105,7 +105,7 @@ Você tem direito a:
 
 - **Acessar** os dados que o app armazena sobre você
 - **Corrigir** dados incompletos ou desatualizados
-- **Excluir** seus dados (apagando o app ou solicitando exclusão da conta)
+- **Excluir** sua conta e seus dados (veja a seção 10)
 - **Portabilidade**: exportar seus dados via função de backup do app
 - **Revogar consentimento** a qualquer momento
 
@@ -113,13 +113,25 @@ Para exercer qualquer um desses direitos, entre em contato: **udecosta@gmail.com
 
 ---
 
-## 10. Alterações nesta política
+## 10. Exclusão de conta e dados
+
+Você pode excluir sua conta do VendeAI e todos os dados associados a ela a qualquer momento.
+
+**Pelo aplicativo:** na tela inicial, toque no ícone da conta → **Excluir conta e dados da nuvem** → confirme com sua senha.
+
+**Sem o aplicativo:** envie um e-mail para **udecosta@gmail.com** com o assunto "Exclusão de conta VendeAI", a partir do e-mail cadastrado na conta.
+
+O passo a passo completo, incluindo o que é apagado e o que é mantido, está na página **[Exclusão de conta — VendeAI](exclusao-de-conta.html)**.
+
+---
+
+## 11. Alterações nesta política
 
 Podemos atualizar esta política periodicamente. Alterações significativas serão comunicadas dentro do app. A data da última atualização está sempre no topo desta página.
 
 ---
 
-## 11. Contato
+## 12. Contato
 
 **Adega Digital**
 E-mail: udecosta@gmail.com
