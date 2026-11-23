@@ -21,7 +21,7 @@ A exclusão acontece na hora.
 
 ## Opção 2: sem o aplicativo (por e-mail)
 
-Se você não tem mais o app instalado, envie um e-mail para **wzsistemasapp@gmail.com**:
+Se você não tem mais o app instalado, envie um e-mail para **udecosta@gmail.com**:
 
 - **Assunto:** Exclusão de conta VendeAI
 - **Remetente:** o mesmo e-mail cadastrado na conta
